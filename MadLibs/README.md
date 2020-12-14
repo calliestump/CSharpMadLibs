@@ -5,7 +5,7 @@
 #### **By Callie Stump, Jerrod Styrk, Danielle Thompson**
 
 ## Decription
-- This Application will  Create a letter and put in a sender and recipient.
+- This Application will create a letter and put in a sender and recipient.
 
 ## Setup
 
@@ -15,9 +15,9 @@
 
  #### _To Open Locally_
 
-- [Click to view Github repository](https://github.com/SJerrod/FriendLetter.Solution.git) Or simply paste the following url into your prefered browser https://github.com/SJerrod/FriendLetter.Solution.git
+- [Click to view Github repository](https://github.com/calliestump/CSharpMadLibs.git) Or simply paste the following url into your prefered browser https://github.com/calliestump/CSharpMadLibs.git
 - To Clone repository simply click the green Code button and copy the url.
-- Using a prefered terminal use the command 'git clone paste-url-here' in which ever directory you wish.
+- Using a prefered terminal use the command 'git clone https://github.com/calliestump/CSharpMadLibs.git' in which ever directory you wish.
 - Open the newly cloned repo with your text editor.
 - In the terminal run command 'dotnet restore'
 - In the terminal run command 'dotnet build'
@@ -31,8 +31,8 @@
 
 | specification | input | output |
 | :------------ | :---- | :----- |
-| Prompts User to add a sender | Your Name | Your Name |
-| Prompts User to add a recipient| Someones Name | Someones Name |
+| Prompts User to add a fill out MadLibs form | Input: noun, verb, adverb | Return: elephant, runs, loudly |
+| Form submission returns MadLibs story | Input: user's noun, verb, adverb, etc. | Output: story body + userNoun + story body, etc. |
 
 
 </details>
