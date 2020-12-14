@@ -1,11 +1,11 @@
 # **MadLibs**
 
-#### Enter a Sender and Recipient, 12/14/2020
+#### Create a silly Madlib story, 12/14/2020
 
 #### **By Callie Stump, Jerrod Styrk, Danielle Thompson**
 
 ## Decription
-- This Application will create a letter and put in a sender and recipient.
+- This Application will take user input based on the parts of a sentance its looking for. Then it will display a story with your added input. Enjoy.
 
 ## Setup
 
